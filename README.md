@@ -2,7 +2,7 @@
 
 A modern, responsive weather dashboard built with React that provides real-time weather information and activity suggestions based on current weather conditions.
 
-![Weather Dashboard Preview](/api/placeholder/800/400)
+![Weather Dashboard Preview](https://weather-now-delta-six.vercel.app/)
 
 ## 🌟 Features
 

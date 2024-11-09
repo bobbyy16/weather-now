@@ -1,4 +1,5 @@
 import { AnimatePresence, motion } from "framer-motion";
+import { AlertCircle } from "lucide-react";
 
 export const ErrorMessage = ({ error }) => (
   <AnimatePresence>
