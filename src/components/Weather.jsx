@@ -74,7 +74,7 @@ const Weather = () => {
     if (description.includes("sunny") || description.includes("clear")) {
       activities = [
         "Go for a hike",
-        "Spend time at the park or beach",
+        "Spend time at the park",
         "Outdoor picnic",
         "Ride a bike",
       ];
